@@ -1,0 +1,7 @@
+E:\kuaipan\study\workspace(winPhone)\CSharp\CSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\kuaipan\study\workspace(winPhone)\CSharp\CSharp\bin\Debug\CSharp.exe
+E:\kuaipan\study\workspace(winPhone)\CSharp\CSharp\bin\Debug\CSharp.pdb
+E:\kuaipan\study\workspace(winPhone)\CSharp\CSharp\obj\x86\Debug\CSharp.exe
+E:\kuaipan\study\workspace(winPhone)\CSharp\CSharp\obj\x86\Debug\CSharp.pdb
+E:\kuaipan\study\workspace_vs\CSharp\CSharp\obj\x86\Debug\CSharp.exe
+E:\kuaipan\study\workspace_vs\CSharp\CSharp\obj\x86\Debug\CSharp.pdb

@@ -1,0 +1,110 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="QQLoginDemo.Views.LoginPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True" xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls" xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    BackKeyPress="PhoneApplicationPage_BackKeyPress">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="White">
+        <!--Pivot Control-->
+        <!-- error: Title="{StaticResource pivotTitle} why??-->
+        <controls:Pivot Name="pivot"  Foreground="#FF6DBBF2" SelectionChanged="Pivot_SelectionChanged">
+            <controls:Pivot.Title>
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Images/pivotTitle.png" OpacityMask="#FF5679EF" Opacity="0.5" />
+                    <TextBlock Text="手机QQ" VerticalAlignment="Center" FontWeight="Light" FontStyle="Normal" Foreground="#FF93D1EF" />
+                </StackPanel>
+            </controls:Pivot.Title>
+            <controls:PivotItem Header="帐号" Foreground="White" Padding="10,0,0,10">
+                <Grid Background="#FFFFF8F8">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Text="账号" Foreground="#FFA39797" />
+                    <Grid Grid.Row="1" Background="#BFE2E2E2" Margin="18,0,17,13" Width="421" Height="58">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Grid.Column="0" Source="/Images/Tile.png" Stretch="Fill" Width="55" Height="55" />
+                        <TextBox Grid.Column="1" Name="TextBox_ID" BorderBrush="#BFE2E2E2" Background="Transparent" FontStretch="Expanded" VerticalAlignment="Center" Height="75">
+                            <TextBox.InputScope>
+                                <InputScope>
+                                    <InputScopeName NameValue="Digits"/>
+                                </InputScope>
+                            </TextBox.InputScope>
+                        </TextBox>
+                    </Grid>
+                    <TextBlock Grid.Row="2" Text="密码" Foreground="#FFA39797" />
+                    <PasswordBox Name="PasswordBox_Password" Grid.Row="3" Background="#BFE2E2E2" Height="85" Padding="0,2,0,0"></PasswordBox>
+                    <Button Grid.Row="4" Name="Button_Confirm" Content="确 定" Foreground="White" BorderBrush="White" Background="#FF41A2E5" Height="85" Click="Button_Confirm_Click"></Button>
+                    <Grid Grid.Row="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <CheckBox Grid.Column="0" Content="记住我" Foreground="Black" FontWeight="Medium" FontSize="27" Background="#BF6294C4" Checked="CheckBox_RemeberMe_Checked" Name="CheckBox_RemeberMe" />
+                        <HyperlinkButton Grid.Column="1" Content="注册新帐号  " HorizontalContentAlignment="Right" NavigateUri="/QQLoginDemo;component/Views/BrowserPage.xaml?WebName=register" FontSize="27" Foreground="#FF3278E5" />
+                    </Grid>
+
+                </Grid>
+            </controls:PivotItem>
+            <controls:PivotItem Header="设置" Padding="10,0,0,10">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Text="您可以在这里进行软件设置，还可以管理登陆过的帐号" TextWrapping="Wrap" Margin="0,0,0,15" Foreground="#FF5684CB" FontSize="18" FontWeight="Medium" />
+                    <Grid Grid.Row="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <StackPanel Grid.Row="0" >
+                            <TextBlock Text="隐身登录" FontSize="27" FontStyle="Normal" FontWeight="Medium" Foreground="Black" />
+                        </StackPanel>
+                        <toolkit:ToggleSwitch Name="ToggleSwitch_IsHidding" Grid.Row="0" FontSize="22" VerticalContentAlignment="Bottom" VerticalAlignment="Stretch" FontStretch="Normal" BorderThickness="0,10,0,0" Foreground="#FF4E4545" FontWeight="Medium" Background="#FF428ECE" />
+                        <StackPanel Grid.Row="1">
+                            <TextBlock Text="声音提示" FontSize="27" Foreground="Black" FontWeight="Medium" />
+                        </StackPanel>
+                        <toolkit:ToggleSwitch Name="ToogleSwitch_IsWarning" Grid.Row="1" FontSize="22" VerticalContentAlignment="Bottom" VerticalAlignment="Stretch" FontStretch="Normal" Background="#FF428ECE" BorderThickness="0,10,0,0" FontWeight="Medium" Foreground="#FF4E4545" HorizontalContentAlignment="Left" />
+                        <StackPanel Grid.Row="2">
+                            <TextBlock Text="消息振动" FontSize="27" Foreground="Black" FontWeight="Medium" />
+                        </StackPanel>
+                        <toolkit:ToggleSwitch Name="ToogleSwitch_IsVibrating" Grid.Row="2" FontSize="22" VerticalContentAlignment="Center" VerticalAlignment="Stretch" FontStretch="Normal" Background="#FF428ECE" BorderThickness="0,10,0,0" Foreground="#FF4E4545" FontWeight="Medium" />
+                    </Grid>
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

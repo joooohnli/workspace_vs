@@ -1,0 +1,23 @@
+﻿<Application 
+    x:Class="QQLoginDemo2.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone">
+
+    <!--Application Resources-->
+    <Application.Resources>
+        <shell:ApplicationBar x:Key="AppBar_Setting" IsVisible="True" IsMenuEnabled="False" BackgroundColor="#FF56A6D8" ForegroundColor="White">
+            <shell:ApplicationBarIconButton x:Name="appbar_button_delete" IconUri="/Images/delete.png" Text="删除账号" IsEnabled="False"/>
+            <shell:ApplicationBarIconButton x:Name="appbar_button_help" IconUri="/Images/help.png" Text="帮助" Click="appbar_button_help_Click"/>
+        </shell:ApplicationBar>
+    </Application.Resources>
+
+    <Application.ApplicationLifetimeObjects>
+        <!--Required object that handles lifetime events for the application-->
+        <shell:PhoneApplicationService 
+            Launching="Application_Launching" Closing="Application_Closing" 
+            Activated="Application_Activated" Deactivated="Application_Deactivated"/>
+    </Application.ApplicationLifetimeObjects>
+
+</Application>

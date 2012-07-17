@@ -1,0 +1,6 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="GetConnected" EntryPointType="GetConnected.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="GetConnected" Source="GetConnected.dll" />
+    <AssemblyPart x:Name="BuiltToRoam.Network" Source="BuiltToRoam.Network.dll" />
+  </Deployment.Parts>
+</Deployment>

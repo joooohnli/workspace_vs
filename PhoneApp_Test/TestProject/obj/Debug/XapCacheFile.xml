@@ -1,0 +1,10 @@
+﻿<xapCache source="E:\kuaipan\study\workspace_vs\PhoneApp_Test\TestProject\bin\Debug\TestProject.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2012/7/17 22:41:31">
+  <file source="E:\kuaipan\study\workspace_vs\PhoneApp_Test\TestProject\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2012/7/17 10:47:58" />
+  <file source="E:\kuaipan\study\workspace_vs\PhoneApp_Test\TestProject\Background.jpg" archivePath="Background.jpg" lastWriteTime="2012/7/17 10:47:58" />
+  <file source="E:\kuaipan\study\workspace_vs\PhoneApp_Test\TestProject\ApplicationIcon.jpg" archivePath="ApplicationIcon.jpg" lastWriteTime="2012/7/17 10:47:58" />
+  <file source="E:\kuaipan\study\workspace_vs\PhoneApp_Test\TestProject\obj\Debug\TestProject.dll" archivePath="TestProject.dll" lastWriteTime="2012/7/17 22:41:30" />
+  <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.0\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="2011/9/15 15:34:20" />
+  <file source="E:\kuaipan\study\workspace_vs\PhoneApp_Test\TestProject\bin\Debug\Microsoft.Silverlight.Testing.dll" archivePath="Microsoft.Silverlight.Testing.dll" lastWriteTime="2011/6/9 12:54:56" />
+  <file source="E:\kuaipan\study\workspace_vs\PhoneApp_Test\TestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" archivePath="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" lastWriteTime="2011/6/9 12:54:56" />
+  <file source="E:\kuaipan\study\workspace_vs\PhoneApp_Test\TestProject\bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2012/7/17 22:38:55" />
+</xapCache>

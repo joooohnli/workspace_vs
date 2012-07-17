@@ -1,0 +1,40 @@
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\ApplicationIcon.jpg
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\Background.jpg
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\UnitiyCommon.Test.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\UnitiyCommon.Test.pdb
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\AppManifest.xaml
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\UnitiyCommon.Test.xap
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\Microsoft.Phone.Controls.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\Microsoft.Silverlight.Testing.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\SilverlightSerializer.WP7.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\WindowsPhoneEssentials.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\WindowsPhoneEssentials.Testing.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\Microsoft.Phone.Controls.xml
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\App.g.i.cs
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\MainPage.g.i.cs
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\UnitiyCommon.Test.g.resources
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\UnitiyCommon.Test.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\UnitiyCommon.Test.pdb
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\XapCacheFile.xml
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\ApplicationIcon.jpg
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\Background.jpg
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\UnitiyCommon.Test.dll
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\UnitiyCommon.Test.pdb
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\AppManifest.xaml
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\UnitiyCommon.Test.xap
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\Microsoft.Phone.Controls.dll
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\Microsoft.Silverlight.Testing.dll
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\SilverlightSerializer.WP7.dll
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\WindowsPhoneEssentials.dll
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\WindowsPhoneEssentials.Testing.dll
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\bin\Debug\Microsoft.Phone.Controls.xml
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\App.g.cs
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\MainPage.g.cs
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\UnitiyCommon.Test.g.resources
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\UnitiyCommon.Test.dll
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\UnitiyCommon.Test.pdb
+E:\kuaipan\study\workspace_vs\UnitiyCommonDirDemo\UnitiyCommon.Test\obj\Debug\XapCacheFile.xml

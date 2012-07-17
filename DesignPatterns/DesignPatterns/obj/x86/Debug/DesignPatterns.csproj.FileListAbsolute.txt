@@ -1,0 +1,5 @@
+E:\kuaipan\study\workspace(winPhone)\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+E:\kuaipan\study\workspace(winPhone)\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+E:\kuaipan\study\workspace(winPhone)\DesignPatterns\DesignPatterns\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\kuaipan\study\workspace(winPhone)\DesignPatterns\DesignPatterns\obj\x86\Debug\DesignPatterns.exe
+E:\kuaipan\study\workspace(winPhone)\DesignPatterns\DesignPatterns\obj\x86\Debug\DesignPatterns.pdb

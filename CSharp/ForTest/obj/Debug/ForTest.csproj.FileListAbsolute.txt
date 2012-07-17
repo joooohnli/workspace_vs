@@ -1,0 +1,13 @@
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\Bin\Debug\ApplicationIcon.png
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\Bin\Debug\Background.png
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\Bin\Debug\ForTest.dll
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\Bin\Debug\ForTest.pdb
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\Bin\Debug\AppManifest.xaml
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\Bin\Debug\ForTest.xap
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\obj\Debug\ResolveAssemblyReference.cache
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\obj\Debug\App.g.cs
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\obj\Debug\MainPage.g.cs
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\obj\Debug\ForTest.g.resources
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\obj\Debug\ForTest.dll
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\obj\Debug\ForTest.pdb
+E:\kuaipan\study\workspace(winPhone)\CSharp\ForTest\obj\Debug\XapCacheFile.xml

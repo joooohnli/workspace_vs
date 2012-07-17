@@ -1,0 +1,5 @@
+E:\kuaipan\study\workspace_vs\PhoneApp_Test\BuiltToRoam.Network\Bin\Debug\BuiltToRoam.Network.dll
+E:\kuaipan\study\workspace_vs\PhoneApp_Test\BuiltToRoam.Network\Bin\Debug\BuiltToRoam.Network.pdb
+E:\kuaipan\study\workspace_vs\PhoneApp_Test\BuiltToRoam.Network\obj\Debug\ResolveAssemblyReference.cache
+E:\kuaipan\study\workspace_vs\PhoneApp_Test\BuiltToRoam.Network\obj\Debug\BuiltToRoam.Network.dll
+E:\kuaipan\study\workspace_vs\PhoneApp_Test\BuiltToRoam.Network\obj\Debug\BuiltToRoam.Network.pdb

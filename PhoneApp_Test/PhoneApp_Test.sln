@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{BB1EF9E6-1B2C-4FB5-B35A-F1C7B10DB91F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltToRoam.Network", "BuiltToRoam.Network\BuiltToRoam.Network.csproj", "{D0D7CE6F-F551-4CF6-89E5-242E12537048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetConnected", "GetConnected\GetConnected.csproj", "{3079CF74-7FD3-41DD-9D54-4D090ED5CE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1EF9E6-1B2C-4FB5-B35A-F1C7B10DB91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1EF9E6-1B2C-4FB5-B35A-F1C7B10DB91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1EF9E6-1B2C-4FB5-B35A-F1C7B10DB91F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BB1EF9E6-1B2C-4FB5-B35A-F1C7B10DB91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1EF9E6-1B2C-4FB5-B35A-F1C7B10DB91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1EF9E6-1B2C-4FB5-B35A-F1C7B10DB91F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D0D7CE6F-F551-4CF6-89E5-242E12537048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D7CE6F-F551-4CF6-89E5-242E12537048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D7CE6F-F551-4CF6-89E5-242E12537048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D7CE6F-F551-4CF6-89E5-242E12537048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3079CF74-7FD3-41DD-9D54-4D090ED5CE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3079CF74-7FD3-41DD-9D54-4D090ED5CE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3079CF74-7FD3-41DD-9D54-4D090ED5CE9E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3079CF74-7FD3-41DD-9D54-4D090ED5CE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3079CF74-7FD3-41DD-9D54-4D090ED5CE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3079CF74-7FD3-41DD-9D54-4D090ED5CE9E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

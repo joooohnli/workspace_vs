@@ -1,0 +1,15 @@
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\obj\Debug\App.g.i.cs
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\obj\Debug\MainPage.g.i.cs
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\obj\Debug\UnitiyCommonEmpty.Test.g.resources
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\Bin\Debug\ApplicationIcon.png
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\Bin\Debug\Background.png
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\Bin\Debug\UnitiyCommonEmpty.Test.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\Bin\Debug\UnitiyCommonEmpty.Test.pdb
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\Bin\Debug\AppManifest.xaml
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\Bin\Debug\UnitiyCommonEmpty.Test.xap
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\Bin\Debug\Microsoft.Silverlight.Testing.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\obj\Debug\UnitiyCommonEmpty.Test.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\obj\Debug\UnitiyCommonEmpty.Test.pdb
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\UnitiyCommonDirDemo\UnitiyCommonEmpty.Test\obj\Debug\XapCacheFile.xml

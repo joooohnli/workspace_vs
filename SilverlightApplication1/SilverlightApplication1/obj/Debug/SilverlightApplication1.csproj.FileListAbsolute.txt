@@ -1,0 +1,12 @@
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\ResolveAssemblyReference.cache
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\App.g.cs
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\MainPage.g.cs
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.g.resources
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1.dll
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1.pdb
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.dll
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.pdb
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\Bin\Debug\AppManifest.xaml
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1.xap
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1TestPage.html
+f:\john\documents\visual studio 2010\Projects\SilverlightApplication1\SilverlightApplication1\obj\Debug\XapCacheFile.xml
